@@ -24,3 +24,11 @@ npm up <name-of-the-package>
 or
 npm update <name-of-the-package>
 ```
+
+#### 3. Flags
+
+```nodejs
+
+-S is the same as --save
+-D is the same as --save-dev
+```
